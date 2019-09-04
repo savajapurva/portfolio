@@ -180,7 +180,7 @@ class Header extends Component {
                   />
                 </svg>
                 <a href="#" target="_blank">
-                  &nbsp;&nbsp;savajapurva.com
+                  &nbsp;&nbsp;apurvasavaj.com
                 </a>
               </li>
             </ul>
