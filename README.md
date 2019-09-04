@@ -1,4 +1,4 @@
-# Personal portfolio
+# Personal Portfolio
 
 Sources of my personal portfolio.
 React, React Router 4, Redux, Bootstrap 4
@@ -20,19 +20,11 @@ https://github.com/savajapurva/DevsNetwork-MERN.git
 cd DevsNetwork-MERN && npm install
 
 ```
-
-Enter mongoURI and secret in config->keys_dev.js
-
-```
-mongoURI=YOUR_OWN_MONGO_URI
-secretOrKey=YOUR_OWN_SECRET
-```
-
 To run the development server:
 
 ```bash
 # the development server runs on port 3000
-npm run dev
+npm start
 ```
 
 To run production build:
@@ -67,9 +59,6 @@ You will be prompted to enter your email and password which is the same the emai
 # create your app
 heroku create
 
-# set enviroment vareiables
-heroku config:set mongoURI=YOUR_OWN_MONGO_URI
-heroku config:set secretOrKey=YOUR_OWN_SECRET
 ```
 
 Try to keep your production DB different from development DB
@@ -104,7 +93,8 @@ git push heroku master:master
 
 - [x] **[React](https://github.com/facebook/react)**
 - [x] **[Redux](https://github.com/reactjs/redux)**
-- [x] **[Twitter Bootstap 4](https://github.com/twbs/bootstrap/tree/v4-dev)**
+- [x] **[Bootstap 4](https://github.com/twbs/bootstrap/tree/v4-dev)**
+- [x] **[Reactstrap](https://github.com/reactstrap/reactstrap)**
 - [x] **[React-Router-DOM](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 
 #### Libraries used in Client-side
@@ -114,4 +104,12 @@ git push heroku master:master
 - [x] **[react-moment](https://github.com/headzoo/react-moment)**
 - [x] **[react-redux](https://github.com/reduxjs/react-redux)**
 - [x] **[redux-thunk](https://github.com/reduxjs/redux-thunk)**
-- [x] **[validator](https://github.com/chriso/validator.js)**
+- [x] **[react-stickynode](https://github.com/yahoo/react-stickynode)**
+- [x] **[react-scroll](https://github.com/fisshy/react-scroll)**
+- [x] **[react-animations](https://github.com/FormidableLabs/react-animations)**
+- [x] **[prop-types](https://github.com/facebook/prop-types)**
+
+### Server Side
+
+- [x] **[Node.js / Express](https://github.com/expressjs/express)**
+- [x] **[path](https://github.com/nodejs/node)**
