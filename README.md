@@ -1,7 +1,7 @@
 # Personal Portfolio
 
-Sources of my personal portfolio.
-React, React Router 4, Redux, Bootstrap 4
+Made with 
+React, React Router 4, Redux, React Bootstrap 4
 
 Preview:
 www.apurvasavaj.com
@@ -14,10 +14,10 @@ www.apurvasavaj.com
 
 ```bash
 # clone repository
-https://github.com/savajapurva/DevsNetwork-MERN.git
+https://github.com/savajapurva/portfolio.git
 
 # Install dependencies
-cd DevsNetwork-MERN && npm install
+cd portfolio && npm install
 
 ```
 To run the development server:
