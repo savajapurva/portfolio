@@ -70,6 +70,9 @@ npm run build
 # deploy code to heroku
 git push heroku master:master
 ```
+---
+
+## Design and Implementation
 
 <img src="img/a.png">
 
