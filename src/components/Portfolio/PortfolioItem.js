@@ -11,6 +11,7 @@ class PortfolioItem extends Component {
       stack,
       image,
       projectUrl,
+      projectLink,
       description
     } = this.props;
 
@@ -29,7 +30,7 @@ class PortfolioItem extends Component {
                   target="_blank"
                   rel="noreferrer noopener"
                   className="btn mb-1"
-                  style={{ justifyContent: "center" }}
+                  style={{ justifyContent: "center", marginRight: "40px" }}
                 >
                   {githubLink}
                 </a>
@@ -38,9 +39,10 @@ class PortfolioItem extends Component {
                   href={projectUrl}
                   target="_blank"
                   rel="noreferrer noopener"
-                  className="btn"
+                  className="btn "
+                  style={{ marginRight: "40px" }}
                 >
-                  Preview
+                  {projectLink}
                 </a>
               </div>
             </div>
