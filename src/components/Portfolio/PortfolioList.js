@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import PortfolioItem from "./PortfolioItem";
-
 import knowhow from "../../img/knowhow.png";
 import kungfukarate from "../../img/kungfukarate.png";
 import mysafeguard from "../../img/safeguard.png";
