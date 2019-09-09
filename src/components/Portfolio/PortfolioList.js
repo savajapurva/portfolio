@@ -33,7 +33,7 @@ const items = [
   {
     name: "React Beach Resort",
     context: "Resort App",
-    githubUrl: "github.com/savajapurva/ResortP",
+    githubUrl: "https://github.com/savajapurva/ResortP",
     githubLink: "View on Github",
     projectLink: "Preview",
     projectUrl: "https://my-react-resort.netlify.com/",
