@@ -78,14 +78,18 @@ class Testimonials extends Component {
                       />
                     </svg>
                   </span>
-                  James is an excellent software engineer and he is passionate
-                  about what he does. Lorem ipsum dolor sit amet, consectetuer
-                  adipiscing elit. Suspendisse porttitor metus eros.
+                  Apurva worked as a Web Developer intern in my company. He has
+                  a fine sense of intuition and can pick new technologies
+                  quickly. He coded an web application in React and Node.js and
+                  designed responsive web pages. He also has high learning
+                  capacity since he was able to discuss and design what the
+                  project needs with the ability to thrive under pressure. I
+                  would recommend Apurva for any Web Development team
                 </p>
               </blockquote>
               <div className="source">
-                <div className="name">Rob Olson</div>
-                <div className="position">Product Manager, Apple</div>
+                <div className="name">Parth Savaj</div>
+                <div className="position">CEO, Savaj Infotech</div>
               </div>
             </div>
             <div
@@ -113,14 +117,15 @@ class Testimonials extends Component {
                       />
                     </svg>
                   </span>
-                  Sed massa leo, aliquet non velit eu, volutpat vulputate odio.
-                  Interdum et malesuada fames ac ante ipsum primis in faucibus.
-                  Suspendisse porttitor metus eros, ut fringilla nulla auctor a.
+                  We worked together at Savaj Infotech. He was very efficient
+                  and proactive for providing support. He was diligent in
+                  checking issues and helping with the root cause. He also
+                  picked up API development in short span of time.
                 </p>
               </blockquote>
               <div className="source">
-                <div className="name">Christina Jensen</div>
-                <div className="position">Senior Developer, Twitter</div>
+                <div className="name">Nikunj Savaj</div>
+                <div className="position">Senior Developer, Savaj Infotech</div>
               </div>
             </div>
           </div>
