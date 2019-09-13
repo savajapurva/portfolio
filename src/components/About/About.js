@@ -29,7 +29,7 @@ class About extends Component {
             strengthen my technical skills in NodeJS and other demanding
             frameworks. I have strong ability in designing dynamic and
             responsive websites and built many projects using <b>HTML5</b>,{" "}
-            <b>CSS3</b>, <b>SAAS</b>, <b>Bootstrap</b>, <b>React</b>,{" "}
+            <b>CSS3</b>, <b>Sass</b>, <b>Bootstrap</b>, <b>React</b>,{" "}
             <b>NodeJS</b> and <b>MongoDB</b>.
             <br />
             <br />

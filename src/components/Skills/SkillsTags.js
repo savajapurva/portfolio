@@ -1,13 +1,18 @@
 import React, { Component } from "react";
 
 const skills = [
-  "Git",
+  "GIT",
   "Semantic UI",
   "Redux",
   "REST",
   "JSX",
+  "GraphQL",
+  "Linux/Unix",
+  "Shell Scripting",
+  "styled components",
   "VS Code",
   "Atom",
+  "Postman",
   "Sublime",
   "Agile",
   "Scrum",

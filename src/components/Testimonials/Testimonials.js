@@ -125,7 +125,9 @@ class Testimonials extends Component {
               </blockquote>
               <div className="source">
                 <div className="name">Patel Nikunj</div>
-                <div className="position">Senior Developer, Savaj Infotech</div>
+                <div className="position">
+                  Senior Web Developer, Savaj Infotech
+                </div>
               </div>
             </div>
           </div>
